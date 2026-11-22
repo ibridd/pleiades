@@ -27,7 +27,7 @@ Português · [English](./README.md)
 
 ## 📃 Prefácio
 
-Fiz este tema para o meu próprio uso. Ele pode não atender a todo mundo, e tudo bem. Foi desenvolvido com ferramentas de IA, que usei para aprender enquanto construía. Se ele funcionar para você também, fico feliz.
+Fiz este tema para o meu próprio uso. Ele pode não atender a todo mundo, e tudo bem. Se ele funcionar para você também, fico feliz.
 
 O Pleiades não reinventa o Obsidian: ele só deixa a leitura e a escrita mais calmas. Cuida de quatro coisas:
 

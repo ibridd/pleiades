@@ -127,11 +127,11 @@ The same finish in both modes: callouts with a side line and a star, code blocks
 
 ## ☕ If you like the theme
 
-Leave a ⭐ on the repository and tell anyone who might enjoy it. It helps more than it seems.
-
-It's free and also serves as my way of learning. If you'd like to chip in with a coffee (or save my back and my sleepless nights), the link is here:
+Consider buying me a coffee. The theme is free, but your support already helps me a lot.
 
 <a href='https://ko-fi.com/V7Q82AODDU' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
+Leave a ⭐ on the repository and tell anyone who might enjoy it. It helps more than it seems.
 
 <a id="feedback-and-support"></a>
 

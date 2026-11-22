@@ -16,7 +16,7 @@
 - [🔍 In detail](#-in-detail)
   - [🔤 Typography](#-typography)
   - [🎨 Palettes](#-palettes)
-  - [✦ Callouts, code, tables and tags](#-callouts-code-tables-and-tags)
+  - [⭐ Callouts, code, tables and tags](#-callouts-code-tables-and-tags)
 - [🧩 Compatibility](#-compatibility)
 - [☕ If you like the theme](#-if-you-like-the-theme)
 - [📬 Feedback and support](#-feedback-and-support)
@@ -109,7 +109,7 @@ Named after the stars of the Pleiades.
 | Taygeta   | `#8B5F9C` |
 | Celaeno   | `#3D6E92` |
 
-### ✦ Callouts, code, tables and tags
+### ⭐ Callouts, code, tables and tags
 
 ![Details](assets/screenshots/03-details.svg)
 

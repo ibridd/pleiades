@@ -116,7 +116,7 @@ Nomeadas a partir das estrelas das Plêiades.
 
 <a id="callouts-codigo-tabelas-e-tags"></a>
 
-### ::star:: Callouts, código, tabelas e tags
+### ⭐ Callouts, código, tabelas e tags
 
 ![Detalhes](assets/screenshots/03-details-pt.svg)
 

@@ -26,7 +26,7 @@
 
 ## 📃 Preface
 
-I made this theme for my own use. It may not suit everyone, and that's fine. It was built with AI tools, which I used to learn along the way. If it works for you too, I'm glad.
+I made this theme for my own use. It may not suit everyone, and that's fine. If it works for you too, I'm glad.
 
 Pleiades doesn't reinvent Obsidian: it just makes reading and writing calmer. It takes care of four things:
 

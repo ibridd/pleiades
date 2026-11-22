@@ -8,8 +8,6 @@ Português · [English](./README.md)
 
 </div>
 
----
-
 ## 📑 Conteúdo
 
 - [📑 Conteúdo](#-conteúdo)
